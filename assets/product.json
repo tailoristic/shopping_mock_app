@@ -1,0 +1,92 @@
+[
+    {
+        "id": "101",
+        "name": "Apple XR",
+        "price": 450000,
+        "image": "https://images.unsplash.com/photo-1529653762956-b0a27278529c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
+        "description": "An iPhone X showing the splash screen our app, CoinView, held by one of our team members, and taken in our office in Koshigaya, Japan. CoinView is a free app combining the best cryptocurrency market monitoring and portfolio management tools. You’ll get market data, ICO details, and news. You can set up watchlists and alerts. Connect securely to multiple exchanges and wallets. Click the link in our bio for more details.",
+        "stock": 10,
+        "cart": false
+    },
+    {
+        "id": "102",
+        "name": "Mobile Phone 20GB",
+        "price": 400000,
+        "image": "https://images.unsplash.com/photo-1599950755346-a3e58f84ca63?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        "description": "An iPhone X showing the splash screen our app, CoinView, held by one of our team members, and taken in our office in Koshigaya, Japan. CoinView is a free app combining the best cryptocurrency market monitoring and portfolio management tools. You’ll get market data, ICO details, and news. You can set up watchlists and alerts. Connect securely to multiple exchanges and wallets. Click the link in our bio for more details.",
+        "stock": 10,
+        "cart": false
+    },
+    {
+        "id": "103",
+        "name": "iPhone 12 Pro 128GB",
+        "price": 850000,
+        "image": "https://images.unsplash.com/photo-1592179900431-1e021ea53b28?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+        "description": "An iPhone X showing the splash screen our app, CoinView, held by one of our team members, and taken in our office in Koshigaya, Japan. CoinView is a free app combining the best cryptocurrency market monitoring and portfolio management tools. You’ll get market data, ICO details, and news. You can set up watchlists and alerts. Connect securely to multiple exchanges and wallets. Click the link in our bio for more details.",
+        "stock": 10,
+        "cart": false
+    },
+    {
+        "id": "104",
+        "name": "Samsung Galaxy S10",
+        "price": 300000,
+        "image": "https://images.unsplash.com/photo-1541345023926-55d6e0853f4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+        "description": "An iPhone X showing the splash screen our app, CoinView, held by one of our team members, and taken in our office in Koshigaya, Japan. CoinView is a free app combining the best cryptocurrency market monitoring and portfolio management tools. You’ll get market data, ICO details, and news. You can set up watchlists and alerts. Connect securely to multiple exchanges and wallets. Click the link in our bio for more details.",
+        "stock": 10,
+        "cart": false
+    },
+    {
+        "id": "105",
+        "name": "Motorola G20 64GB",
+        "price": 150000,
+        "image": "https://images.unsplash.com/photo-1603566234499-85676f87022f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
+        "description": "An iPhone X showing the splash screen our app, CoinView, held by one of our team members, and taken in our office in Koshigaya, Japan. CoinView is a free app combining the best cryptocurrency market monitoring and portfolio management tools. You’ll get market data, ICO details, and news. You can set up watchlists and alerts. Connect securely to multiple exchanges and wallets. Click the link in our bio for more details.",
+        "stock": 10,
+        "cart": false
+    },
+    {
+        "id": "106",
+        "name": "Nexus 6P",
+        "price": 5999,
+        "image": "https://images.unsplash.com/photo-1596742578443-7682ef5251cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2154&q=80",
+        "description": "An iPhone X showing the splash screen our app, CoinView, held by one of our team members, and taken in our office in Koshigaya, Japan. CoinView is a free app combining the best cryptocurrency market monitoring and portfolio management tools. You’ll get market data, ICO details, and news. You can set up watchlists and alerts. Connect securely to multiple exchanges and wallets. Click the link in our bio for more details.",
+        "stock": 10,
+        "cart": false
+    },
+    {
+        "id": "107",
+        "name": "Windows Surface 10",
+        "price": 13000,
+        "image": "https://images.unsplash.com/photo-1599009432031-ba5d3a794aec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+        "description": "An iPhone X showing the splash screen our app, CoinView, held by one of our team members, and taken in our office in Koshigaya, Japan. CoinView is a free app combining the best cryptocurrency market monitoring and portfolio management tools. You’ll get market data, ICO details, and news. You can set up watchlists and alerts. Connect securely to multiple exchanges and wallets. Click the link in our bio for more details.",
+        "stock": 10,
+        "cart": false
+    },
+    {
+        "id": "108",
+        "name": "iPad mini 2022",
+        "price": 350000,
+        "image": "https://images.unsplash.com/photo-1557825835-70d97c4aa567?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+        "description": "An iPhone X showing the splash screen our app, CoinView, held by one of our team members, and taken in our office in Koshigaya, Japan. CoinView is a free app combining the best cryptocurrency market monitoring and portfolio management tools. You’ll get market data, ICO details, and news. You can set up watchlists and alerts. Connect securely to multiple exchanges and wallets. Click the link in our bio for more details.",
+        "stock": 10,
+        "cart": false
+    },
+    {
+        "id": "109",
+        "name": "Chromebook 3rd generation",
+        "price": 450000,
+        "image": "https://images.unsplash.com/photo-1606127172103-c0cff0ae357a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2148&q=80",
+        "description": "An iPhone X showing the splash screen our app, CoinView, held by one of our team members, and taken in our office in Koshigaya, Japan. CoinView is a free app combining the best cryptocurrency market monitoring and portfolio management tools. You’ll get market data, ICO details, and news. You can set up watchlists and alerts. Connect securely to multiple exchanges and wallets. Click the link in our bio for more details.",
+        "stock": 10,
+        "cart": false
+    },
+    {
+        "id": "110",
+        "name": "iPad Mac Mini",
+        "price": 660000,
+        "image": "https://images.unsplash.com/photo-1552415183-52af5aef5816?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1065&q=80",
+        "description": "An iPhone X showing the splash screen our app, CoinView, held by one of our team members, and taken in our office in Koshigaya, Japan. CoinView is a free app combining the best cryptocurrency market monitoring and portfolio management tools. You’ll get market data, ICO details, and news. You can set up watchlists and alerts. Connect securely to multiple exchanges and wallets. Click the link in our bio for more details.",
+        "stock": 10,
+        "cart": false
+    }
+]
