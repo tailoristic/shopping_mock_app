@@ -1,8 +1,18 @@
+Run below commands to build on iOS
+flutter clean
+flutter pub get
+cd ios
+pod deintegrate
+pod install
+cd ..
+flutter run
+
 # shopping_cart
 
 A new Flutter project.
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
